@@ -1,1 +1,1 @@
-console.log('I do nothing!');
+console.log('Output shows I live!');
