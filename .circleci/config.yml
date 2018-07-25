@@ -6,7 +6,7 @@ jobs:
       # specify the version you desire here
       - image: circleci/node:7.10
 
-    working_directory: .
+    working_directory: /tmp/build
 
     steps:
       - checkout
